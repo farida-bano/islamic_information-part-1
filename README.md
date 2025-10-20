@@ -1,4 +1,5 @@
 https://fb-islamicinformation-part-1.streamlit.app/
+https://www.linkedin.com/posts/farida-bano-1b3b282b6_islamicapp-digitalislam-education-activity-7385759019648507904-14pa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEv8PRcBMFU7D4KXCTRPDQkhMIl7jvlmoGc
 
 🌟 Project Key Features:
 Complete Islamic Application - Comprehensive collection of Quran, Hadith, worship, and teachings
